@@ -1,0 +1,18 @@
+{
+  "name": "curso-nodejs-restful",
+  "version": "18.10.14",
+  "description": "Curso de nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michel dos Santos",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "consign": "^0.1.6",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.0",
+    "nedb": "^1.8.0"
+  }
+}
